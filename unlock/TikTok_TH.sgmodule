@@ -11,4 +11,3 @@
 
 [MITM]
 hostname = %APPEND% *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
-
